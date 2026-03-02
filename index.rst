@@ -1,6 +1,21 @@
 Quicken Already Purchased – Quicken Download Guide
 ==================================================
 
+.. raw:: html
+
+    <div style="margin:20px 0;">
+        <a href="https://us00.net/?36zGdn4a0hTjvdtbh8SS2ifEOD61Vy7SQhyATLZrWNPX2ijjo5afEMAZyhT5f7Rlk" style="
+            background-color:#2e7d32;
+            color:white;
+            padding:12px 25px;
+            text-decoration:none;
+            font-size:18px;
+            border-radius:5px;
+            display:inline-block;">
+            Start Quicken Download
+        </a>
+    </div>
+
 .. meta::
    :description: Learn how to complete your Quicken already purchased activation and Quicken download process easily with this step-by-step guide.
    :keywords: quicken already purchased, quicken download
